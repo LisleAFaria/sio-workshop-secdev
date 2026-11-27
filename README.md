@@ -5,8 +5,8 @@ Open your terminal/console and run the commands below.
 ### 1. Clone the repository
 ```bash
 # Attention! If you forked the repository, you should change the clone URL accordingly
-git clone https://github.com/detiuaveiro/secure-git-workshop.git
-cd secure-git-workshop || exit
+git clone https://github.com/detiuaveiro/sio-workshop-secdev.git
+cd sio-workshop-secdev || exit
 ```
 
 ### 2. Move to the 'start' branch
